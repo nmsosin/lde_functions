@@ -1,0 +1,21 @@
+.page {
+  background-color: #212139;
+}
+
+.page__container {
+  width: 640px;
+  height: 280px;
+  border: 1px solid #ead8d0;
+  border-radius: 30px;
+  margin: 200px auto 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page__title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
+  font-weight: lighter;
+  color: #ead8d0;
+}
