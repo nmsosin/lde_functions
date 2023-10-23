@@ -37,4 +37,4 @@ function convertStringToObject (text) {
 
 const str = "one.two.three.four.five";
 
-// console.log(convertStringToObject(str));
+console.log(convertStringToObject(str));
